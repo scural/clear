@@ -1,2 +1,2 @@
-# clear-
-Content Loss Elimination And Restoration for COMSW4731
+# clear
+Content Loss Elimination And Restoration for COMSW4731 final project
